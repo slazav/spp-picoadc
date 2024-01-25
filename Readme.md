@@ -1,7 +1,11 @@
 ## pico_adc program -- SPP interface to Pico ADC devices
 
+E.Sergeicheva,
+V.Zavjalov (vl.zavjalov at gmail dot com),
+2019-2024
+
 This is a simple C++ program which implements SPP interface
-to Pico ADC devices for using with device2 server
+to Pico ADC devices, for using with device2 server
 (https://github.com/slazav/device2)
 
 libpicohrdl library is needed.
