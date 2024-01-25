@@ -1,4 +1,5 @@
 *.o
 *.a
+Makefile.deps
 pico_adc
 *.dat
